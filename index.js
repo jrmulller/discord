@@ -1,1 +1,1 @@
-this will not work!
+module.exports = require('./core.asar');
